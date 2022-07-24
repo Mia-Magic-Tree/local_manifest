@@ -11,7 +11,7 @@
   <project name="Mia-Magic-Tree/vendor_samsung_star2lte" path="vendor/samsung/star2lte" revision="twelve" remote="github"/>
   <project name="Mia-Magic-Tree/vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="twelve" remote="github"/>
   <!--Kernel-->
-  <project name="Mia-Magic-Tree/kernel_samsung_exynos_9810" path="kernel/samsung/exynos9810" revision="twelve" remote="github"/>
+  <project name="Mia-Magic-Tree/Destiny_kernel_samsung_exynos_9810" path="kernel/samsung/exynos9810" revision="twelve" remote="github"/>
   <!--SLSI-->
   <project name="Mia-Magic-Tree/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="twelve" remote="github"/>
   <!--Hardware-->
